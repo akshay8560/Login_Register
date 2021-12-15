@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "571166611508",
+    "firebase_url": "https://sarjueworks-44d0b-default-rtdb.firebaseio.com",
+    "project_id": "sarjueworks-44d0b",
+    "storage_bucket": "sarjueworks-44d0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571166611508:android:0687200f2e5ab6e14e1261",
+        "android_client_info": {
+          "package_name": "akshay.kumar.jprinfotech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571166611508-3dvbn7d2tlm0qhpnj2bn6imcp56f5lfv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd1S5pSFSsvUzUR_Ekytd2gBLNr4B-GTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571166611508-3dvbn7d2tlm0qhpnj2bn6imcp56f5lfv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
